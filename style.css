@@ -13,6 +13,25 @@
     border: 1px black;
 }
 
+/* Font Families  */
+
+.regular-font
+{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 300;
+}
+
+.medium-bold-font
+{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+}
+
+.bold-font
+{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 900;
+}
 
 
 /* Megan's Colors */
